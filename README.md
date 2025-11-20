@@ -1,4 +1,4 @@
-# Amazon ML Challenge 2025: Smart Product Pricing
+# MultiModal-PricePredictor
 
 [![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 
