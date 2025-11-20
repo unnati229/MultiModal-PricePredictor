@@ -2,10 +2,6 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 
-This repository contains the solution for the Amazon ML Challenge 2025, a competition focused on predicting product prices from multimodal data (text and images). The final model is a robust ensemble of gradient boosting machines that achieved a **top-tier SMAPE score of 43.9** on the official leaderboard.
-
-## Overview & Final Score
-
 The challenge is to predict the price of a product given its text description (`catalog_content`) and an image (`image_link`). The relationship is complex, with factors like brand, quantity, and product quality heavily influencing the price.
 
 This solution employs a state-of-the-art multimodal approach, combining advanced feature engineering with a powerful ensemble of models to achieve a highly competitive score.
